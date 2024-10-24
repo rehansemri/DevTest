@@ -10,7 +10,7 @@
 
 ## Endpoint
 
-- **URL:**
+- **Live URL:** [https://rehansemri.pythonanywhere.com/](https://rehansemri.pythonanywhere.com/)
   - Handles both GET and POST requests.
 
 ### 1. GET Request
